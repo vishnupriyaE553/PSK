@@ -56,15 +56,11 @@ plt.show()
 ```
 # Output Waveform
 
-
 ![image](https://github.com/user-attachments/assets/df25e9bd-54af-4551-b96f-e792ce23e6e4)
-
 
 # Hardware experiment output waveform.
 
-
 ![WhatsApp Image 2025-05-09 at 21 55 59_c7d85221](https://github.com/user-attachments/assets/4af3c657-dcf8-46d4-b1fa-88ac4112d9ad)
-
 
 # Results
 Thus the Phase shift Keying (PSK) is performed using python.
